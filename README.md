@@ -45,17 +45,25 @@
 - [**Portal Solver**](https://gamejolt.com/games/PortalSolver/898591) - фан-игра, головоломка от первого лица, являющейся смесью **Portal 2** и **Murder Drones** сделанная на **Unreal Engine 5**
 - [**Portal Solver API**](https://github.com/RootTool0/PortalSolverAPI) - Полностью открытый **API** для игры **Portal: Solver** на языке **Python**, имеющий в себе базовые инструменты, инструкции и документации для работы с редактором карт и всей игрой из кода
 - [**A Cold Love Story Remaster**](https://github.com/RootTool0/ACLS_DEV) - Фан-ремейк визуальной новеллы **Лиама Викерса** 2015-го года
-- [**RootShadeBox**](https://github.com/RootTool0/RootShadeBox) - Небольшой инструмент для локального написания шейдеров на **GLSL** _грубо говоря **ShaderToy**, но оффлайн_
+- **RootShadeBox** - Небольшой инструмент для локального написания шейдеров на **GLSL** _грубо говоря **ShaderToy**, но оффлайн_
 - **Root Engine** - Собственный игровой движок на **C++**
-- **Shoko UI Framework** - Compile-time фреймворк для создания UI на **C++**. _Вдохновлено **Epic Games's Slate UI Framework**_
+- [**Shoko**](https://github.com/RootTool0/Shoko) - Compile-time UI Framework для создания UI на **C++**. _Вдохновлено **Epic Games's Slate UI Framework**_
 
 ## Завершенные проекты
 - [**RootSAI**](https://github.com/RootTool0/RootSAI) - **Simple Assembler Interpreter** - минималистичный интерпретатор виртуального 8-битного процессора, написанный на **C++** в образовательных и экспериментальных целях
 - [**RootEncoder**](https://github.com/RootTool0/RootEncoder) - Библиотека для Arduino для работы с ротационными энкодерами: Неограниченный счетчик кликов, удержаний и callback'ов через лямбды
 - [**RootTM1637**](https://github.com/RootTool0/RootTM1637) - Библиотека для Arduino для работы с 4-значными 7-сегментными дисплеями на контроллере TM1637: Отображение времени, управление яркостью и точкой
 - [**RootDS1302**](https://github.com/RootTool0/RootDS1302) - Библиотека для Arduino для работы с модулем времени DS1302: установка, чтение и обновление даты и времени
-- [**RTPinBoard**](https://github.com/RootTool0/RTPinBoard) - Библиотека для Arduino для работы с красной 5-ти клавишной клавиатурой _(написана еще в юности)_
+- [**RootADKeyboard**](https://github.com/RootTool0/RootADKeyboard) - Ремейк моей старой библиотеки [**RTPinBoard**](https://github.com/RootTool0/RTPinBoard)
+
+## Старые, забытые, архивные проекты:
+_(написаны еще в далекой юности)_
+- [**RTPinBoard**](https://github.com/RootTool0/RTPinBoard) - Библиотека для Arduino для работы с красной 5-ти клавишной клавиатурой 
+- [**IntroOnOled**](https://github.com/RootTool0/IntroOnOled) - Реализация интро для моего старого канала
+- [**LowBatteryAlarmSystem**](https://github.com/RootTool0/LowBatteryAlarmSystem) - _костыльная_ система отслеживания заряда аккумулятора на Arduino
 
 ## Что-нибудь еще? Конечно, рад знакомству:
-- ТГ-Канал: [RootTool Blog](https://t.me/RootToolBlog)
-- ТГ-ЛС: [RootTool](https://t.me/RootTool28)
+- **Telegram (канал/блог)**: [RootTool Blog](https://t.me/RootToolBlog)
+- **Telegram (ЛС)**: [@RootTool28](https://t.me/RootTool28)
+- **Discord**: `.roottool` (или `RootTool#5776`)
+- **YouTube**: [RootTool](https://www.youtube.com/@RTEdits0)
