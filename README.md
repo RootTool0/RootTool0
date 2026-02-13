@@ -48,6 +48,7 @@
 - **RootShadeBox** - Небольшой инструмент для локального написания шейдеров на **GLSL** _грубо говоря **ShaderToy**, но оффлайн_
 - **Root Engine** - Собственный игровой движок на **C++**
 - [**Shoko**](https://github.com/RootTool0/Shoko) - Compile-time UI Framework для создания UI на **C++**. _Вдохновлено **Epic Games's Slate UI Framework**_
+- [**Null-propagating Member Access Operator**](https://github.com/RootTool0/null-propagating-member-access-operator) - Предложение оператора `?->` и его реализация _(Proof of Concept)_ в **Clang/LLVM**. обсуждается в **ISO C++ Committee (SG14)**
 
 ## Завершенные проекты
 - [**RootSAI**](https://github.com/RootTool0/RootSAI) - **Simple Assembler Interpreter** - минималистичный интерпретатор виртуального 8-битного процессора, написанный на **C++** в образовательных и экспериментальных целях
@@ -56,7 +57,7 @@
 - [**RootDS1302**](https://github.com/RootTool0/RootDS1302) - Библиотека для Arduino для работы с модулем времени DS1302: установка, чтение и обновление даты и времени
 - [**RootADKeyboard**](https://github.com/RootTool0/RootADKeyboard) - Ремейк моей старой библиотеки [**RTPinBoard**](https://github.com/RootTool0/RTPinBoard)
 
-## Старые, забытые, архивные проекты:
+## Старые, забытые, архивные проекты
 _(написаны еще в далекой юности)_
 - [**RTPinBoard**](https://github.com/RootTool0/RTPinBoard) - Библиотека для Arduino для работы с красной 5-ти клавишной клавиатурой 
 - [**IntroOnOled**](https://github.com/RootTool0/IntroOnOled) - Реализация интро для моего старого канала
