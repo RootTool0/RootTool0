@@ -5,10 +5,8 @@
 <img src="IMG_20251201_113136_340.jpg" width="40%" align="left" hspace="25">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Unreal-Engine-white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-Developer-red"/>
-  <img src="https://img.shields.io/badge/Engine-Dev-green"/>
-  <img src="https://img.shields.io/badge/Graphics-Dev-blue"/>
+  <img src="https://img.shields.io/badge/Unreal%20Engine-030303?style=flat&logo=unrealengine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++%20Developer-b13939?style=flat&logo=cplusplus&logoColor=white"/>
 </p>
 
 <div align="center">
@@ -65,6 +63,6 @@ _(написаны еще в далекой юности)_
 
 ## Что-нибудь еще? Конечно, рад знакомству:
 - **Telegram (канал/блог)**: [RootTool Blog](https://t.me/RootToolBlog)
-- **Telegram (ЛС)**: [@RootTool28](https://t.me/RootTool28)
+- **Telegram (ЛС)**: [@RootTool0](https://t.me/RootTool0)
 - **Discord**: `.roottool` (или `RootTool#5776`)
 - **YouTube**: [RootTool](https://www.youtube.com/@RTEdits0)
