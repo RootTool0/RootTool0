@@ -41,7 +41,6 @@
 
 ## Текущие проекты
 - [**Portal Solver**](https://gamejolt.com/games/PortalSolver/898591) - фан-игра, головоломка от первого лица, являющейся смесью **Portal 2** и **Murder Drones** сделанная на **Unreal Engine 5**
-- [**Portal Solver API**](https://github.com/RootTool0/PortalSolverAPI) - Полностью открытый **API** для игры **Portal: Solver** на языке **Python**, имеющий в себе базовые инструменты, инструкции и документации для работы с редактором карт и всей игрой из кода
 - [**A Cold Love Story Remaster**](https://github.com/RootTool0/ACLS_DEV) - Фан-ремейк визуальной новеллы **Лиама Викерса** 2015-го года
 - **RootShadeBox** - Небольшой инструмент для локального написания шейдеров на **GLSL** _грубо говоря **ShaderToy**, но оффлайн_
 - **Root Engine** - Собственный игровой движок на **C++**
