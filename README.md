@@ -44,7 +44,7 @@
 - [**A Cold Love Story Remaster**](https://github.com/RootTool0/ACLS_DEV) - Фан-ремейк визуальной новеллы **Лиама Викерса** 2015-го года
 - **RootShadeBox** - Небольшой инструмент для локального написания шейдеров на **GLSL** _грубо говоря **ShaderToy**, но оффлайн_
 - **Root Engine** - Собственный игровой движок на **C++**
-- [**Shoko**](https://github.com/RootTool0/Shoko) - Compile-time UI Framework для создания UI на **C++**. _Вдохновлено **Epic Games's Slate UI Framework**_
+- **Shoko** - Compile-time UI Framework для создания UI на **C++**. _Вдохновлено **Epic Games's Slate UI Framework**_
 - [**Null-propagating Member Access Operator**](https://github.com/RootTool0/null-propagating-member-access-operator) - Предложение оператора `?->` и его реализация _(Proof of Concept)_ в **Clang/LLVM**. обсуждается в **ISO C++ Committee (SG14)**
 
 ## Завершенные проекты
